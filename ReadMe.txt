@@ -1,6 +1,9 @@
 Camel Router Spring Project
 ===========================
 
+Websocket listener is expecting JSON with a name and a score. Example:
+{"name": "John", "score": 100}
+
 To build this project use
 
     mvn install
